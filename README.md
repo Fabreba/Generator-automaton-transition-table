@@ -1,0 +1,1 @@
+# Generator-automaton-transition-table
